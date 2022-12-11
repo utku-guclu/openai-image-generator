@@ -61,7 +61,7 @@ const Container = styled.div`
   padding: 4em;
   display: flex;
   flex-direction: column;
-  background-color: #e5efd3;
+  /* background-color: #e5efd3; */
 `;
 
 const Button = styled.div`
